@@ -1,7 +1,7 @@
 # Portfolio graphic and creative studio.
 
 ## **Description**
-Portfolio web site for Mellow Yellow Lab based in Bolonga.
+Portfolio web site for Mellow Yellow Lab based in Bologna.
 
 ## **Tag**
 Portfolio, Gatsby.

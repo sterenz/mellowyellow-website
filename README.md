@@ -23,6 +23,13 @@ git commit
 ***N.B.***  
 _"dependencies"_ are required to run,  
 _"devDependencies"_ only to devolep, e.g.: unit tests, CoffeScript to JavaScript transpilation, minification, ...
+```
+  "dependencies": {
+    "gatsby": "^4.11.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+```
 
 ## **Authors**
 - Alessandro Bartoli  

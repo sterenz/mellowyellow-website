@@ -29,6 +29,13 @@ _"devDependencies"_ only to devolep, e.g.: unit tests, CoffeScript to JavaScript
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   }
+  
+  "devDependencies": {
+    "autoprefixer": "^10.4.4",
+    "gatsby-plugin-postcss": "^5.12.1",
+    "postcss": "^8.4.12",
+    "tailwindcss": "^3.0.24"
+  }
 ```
 
 ## **Authors**

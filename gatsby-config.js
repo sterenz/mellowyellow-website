@@ -3,5 +3,7 @@ module.exports = {
     title: `Mellow Yellow Lab`,
     siteUrl: `https://www.yourdomain.tld`,
   },
-  plugins: [],
+  plugins: [
+    'gatsby-plugin-postcss'
+  ],
 }
